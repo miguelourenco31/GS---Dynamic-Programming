@@ -1,1 +1,1 @@
-# GS---Dynamic-Programming
+# Global Solution - Dynamic-Programming

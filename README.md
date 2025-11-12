@@ -7,8 +7,8 @@ de tempo, energia ou recursos técnicos.
 ---
 
 ##  Equipe
-- Nome Miguel Marques Lourenço de Souza - RM: 555426
-- Nome Lorenzzo Vendruscolo - RM: 558305
+- Miguel Marques Lourenço de Souza - RM: 555426
+- Lorenzzo Vendruscolo - RM: 558305
 
 ---
 

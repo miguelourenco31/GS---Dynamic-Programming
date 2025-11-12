@@ -53,7 +53,7 @@ python garagem_autonoma.py
 
 ---
 
-Relação com o Projeto “Garagem Autônoma de Logística”
+## Relação com o Projeto “Garagem Autônoma de Logística”
 
 Este código representa a camada lógica da Inteligência Artificial,
 que opera à noite na garagem autônoma enquanto os trabalhadores humanos descansam.
